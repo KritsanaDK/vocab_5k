@@ -1,0 +1,16 @@
+Version 1.0.0
+
+<en-US>
+Version 1.0.0
+- Initial release of [App Name].
+- Learn English through real-life conversations.
+- Daily practice exercises and quizzes.
+- Track your progress and improve your vocabulary.
+- Simple, interactive, and user-friendly interface.
+</en-US>
+
+flutter build appbundle --release
+
+
+flutter pub get
+flutter pub run flutter_launcher_icons:main
